@@ -48,10 +48,10 @@ Interactive Filters: Drill down by region, carrier, or time period
 🔗 Project Links
 
 Interactive Tableau Dashboard:
-https://public.tableau.com/app/profile/raj.bhattacharjee3352/viz/SupplyChainPerformanceAnalyticsforGlamourGlowCosmeticsproject1/Dashboard4
+https://public.tableau.com/app/profile/rahul.kumar1277/viz/SupplyChainPerformanceAnalyticsforGlamourGlowCosmeticsproject/Dashboard4?publish=yes
 
 GitHub Repository:
-https://github.com/RajBhattachrya/Supply-Chain-Performance-Analytics-for-GlamourGlow-Cosmetics-project
+https://github.com/rkk0903/Supply-Chain-Performance-Analytics-for-GlamourGlow-Cosmetics-project
 
 🚀 Insights & Key Takeaways
 
@@ -66,6 +66,6 @@ Interactive dashboard allows stakeholders to simulate “what-if” scenarios fo
 
 👨‍💻 Author
 
-Raj Bhattacharya
-📧 LinkedIn URL- www.linkedin.com/in/raj-bhattacharya-33411b372
+Rahul kumar
+📧 LinkedIn URL- https://www.linkedin.com/in/rahul-kumar-345660303/
 📍 Data Analytics | Business Intelligence | Tableau | SQL | Excel | Python | Power bi
